@@ -79,7 +79,7 @@ Agent: 已生成 4 个测试用例并全部运行通过，覆盖了...
 ## 项目结构
 
 ```
-code-agent/
+CodeAgent/
 ├── main.py                 # 命令行交互入口（REPL / 单次提问）
 ├── agent.py                # Agent 构建：LLM + Prompt + 工具 + 记忆
 ├── tools.py                # 工具集：代码执行/文件读取/目录列表/代码搜索
